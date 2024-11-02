@@ -1,0 +1,10 @@
+com\krakedev\EvaluacionGrupal1\exepcion\KrakedevException.class
+com\krakedev\EvaluacionGrupal1\entidades\Articulo.class
+com\krakedev\EvaluacionGrupal1\metodos\Consultas.class
+com\krakedev\EvaluacionGrupal1\resources\JavaEE8Resource.class
+com\krakedev\EvaluacionGrupal1\servicios\ServiciosClientes.class
+com\krakedev\EvaluacionGrupal1\conexion\ConexionBDD.class
+com\krakedev\EvaluacionGrupal1\metodos\EliminarGrupo.class
+com\krakedev\EvaluacionGrupal1\JAXRSConfiguration.class
+com\krakedev\EvaluacionGrupal1\entidades\Grupo.class
+com\krakedev\EvaluacionGrupal1\entidades\RegistroMovimiento.class
